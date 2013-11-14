@@ -1,0 +1,7 @@
+[submodule "GLmol"]
+	path = GLmol
+	url = git@github.com:asford/GLmol.git
+	branch = embedding
+[submodule "python-flot-utils"]
+	path = python-flot-utils
+	url = https://github.com/unbracketed/python-flot-utils
